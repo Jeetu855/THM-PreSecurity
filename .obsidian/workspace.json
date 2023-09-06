@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "244c4bafb0f6cbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "853938dbb707b091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cadcff891092edf4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e80577cf530350c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "28357af7f00fa64f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30929551756adcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1743c11396dfb1d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11ca334123e212d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ceafa3791df2dde3",
+    "type": "split",
+    "children": [
+      {
+        "id": "158e8d0e319e6af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df527d194ea6241a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network Fundamentals/Attachments/layer3switch.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05faa95306e4d360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network Fundamentals/Attachments/layer3switch.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fe19d8559a6be78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29161431346595df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Fundamentals/Attachments/layer3switch.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f30929551756adcd",
+  "lastOpenFiles": [
+    "Network Fundamentals/Attachments/vpn.png",
+    "Network Fundamentals/Attachments/port_forwarding.png",
+    "Network Fundamentals/Attachments/portForwarding.png",
+    "Network Fundamentals/Extending Networks.md",
+    "Network Fundamentals/Attachments/layer3switch.png",
+    "Network Fundamentals/Attachments/udpTransmission.png",
+    "Network Fundamentals/Attachments/3_wayFIN.png",
+    "Network Fundamentals/Attachments/3_wayHandshake.png",
+    "Network Fundamentals/Attachments/tcp.png",
+    "Network Fundamentals/Attachments/router.png",
+    "Network Fundamentals/Attachments/udp.png",
+    "Network Fundamentals/Packets & Frames.md",
+    "Network Fundamentals/OSI Model.md",
+    "Network Fundamentals/Introduction.md",
+    "Network Fundamentals/LAN.md",
+    "Network Fundamentals/Attachments",
+    "Network Fundamentals"
+  ]
+}
