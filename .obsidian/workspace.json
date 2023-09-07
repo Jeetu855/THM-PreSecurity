@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "853938dbb707b091",
+        "id": "ee4b80936810ce67",
         "type": "tabs",
         "children": [
           {
-            "id": "cadcff891092edf4",
+            "id": "f0c0d3f4588aa75f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Web Fundamentals/Attachments/WAF.png"
+              }
             }
           }
         ]
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Fundamentals/Attachments/layer3switch.png",
+                "file": "Web Fundamentals/Attachments/WAF.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Fundamentals/Attachments/layer3switch.png",
+                "file": "Web Fundamentals/Attachments/WAF.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Fundamentals/Attachments/layer3switch.png"
+                "file": "Web Fundamentals/Attachments/WAF.png"
               }
             }
           }
@@ -142,23 +144,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f30929551756adcd",
+  "active": "f0c0d3f4588aa75f",
   "lastOpenFiles": [
-    "Network Fundamentals/Attachments/vpn.png",
-    "Network Fundamentals/Attachments/port_forwarding.png",
-    "Network Fundamentals/Attachments/portForwarding.png",
+    "Web Fundamentals/Attachments/loadBalancer.png",
+    "Web Fundamentals/Attachments/HTMLinjection.png",
+    "Web Fundamentals/Attachments/SensitiveInfoExposure.png",
+    "Web Fundamentals/Attachments/clientServer.png",
+    "Web Fundamentals/Attachments/HTTPreq&res.png",
+    "Web Fundamentals/Attachments/url.png",
+    "Web Fundamentals/Attachments/WAF.png",
+    "Web Fundamentals/HTTP.md",
+    "Web Fundamentals/How Websites Work.md",
+    "Web Fundamentals/Attachments/dnsProcedure.png",
+    "Web Fundamentals/Attachments/dnsHeirarchy.png",
+    "Web Fundamentals/Attachments/dns.png",
+    "Web Fundamentals/DNS.md",
+    "Web Fundamentals/Attachments",
     "Network Fundamentals/Extending Networks.md",
-    "Network Fundamentals/Attachments/layer3switch.png",
-    "Network Fundamentals/Attachments/udpTransmission.png",
-    "Network Fundamentals/Attachments/3_wayFIN.png",
-    "Network Fundamentals/Attachments/3_wayHandshake.png",
-    "Network Fundamentals/Attachments/tcp.png",
-    "Network Fundamentals/Attachments/router.png",
-    "Network Fundamentals/Attachments/udp.png",
-    "Network Fundamentals/Packets & Frames.md",
-    "Network Fundamentals/OSI Model.md",
+    "Web Fundamentals",
     "Network Fundamentals/Introduction.md",
     "Network Fundamentals/LAN.md",
+    "Network Fundamentals/OSI Model.md",
+    "Network Fundamentals/Packets & Frames.md",
+    "Network Fundamentals/Attachments/vpn.png",
     "Network Fundamentals/Attachments",
     "Network Fundamentals"
   ]
