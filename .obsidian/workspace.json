@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4b80936810ce67",
+        "id": "005118e78961e56b",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c0d3f4588aa75f",
+            "id": "199b68138c40b98e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web Fundamentals/Attachments/WAF.png"
+                "file": "Linux Fundamentals/Fundamentals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ceafa3791df2dde3",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Fundamentals/Attachments/WAF.png",
+                "file": "Linux Fundamentals/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Fundamentals/Attachments/WAF.png",
+                "file": "Linux Fundamentals/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Fundamentals/Attachments/WAF.png"
+                "file": "Linux Fundamentals/Fundamentals.md"
               }
             }
           }
@@ -144,15 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c0d3f4588aa75f",
+  "active": "199b68138c40b98e",
   "lastOpenFiles": [
+    "Linux Fundamentals/Attachments/Pasted image 20230908181113.png",
+    "Linux Fundamentals/Attachments",
+    "Web Fundamentals/Attachments/WAF.png",
+    "Linux Fundamentals/Fundamentals.md",
+    "Linux Fundamentals",
     "Web Fundamentals/Attachments/loadBalancer.png",
     "Web Fundamentals/Attachments/HTMLinjection.png",
     "Web Fundamentals/Attachments/SensitiveInfoExposure.png",
     "Web Fundamentals/Attachments/clientServer.png",
     "Web Fundamentals/Attachments/HTTPreq&res.png",
     "Web Fundamentals/Attachments/url.png",
-    "Web Fundamentals/Attachments/WAF.png",
     "Web Fundamentals/HTTP.md",
     "Web Fundamentals/How Websites Work.md",
     "Web Fundamentals/Attachments/dnsProcedure.png",
@@ -166,7 +173,6 @@
     "Network Fundamentals/LAN.md",
     "Network Fundamentals/OSI Model.md",
     "Network Fundamentals/Packets & Frames.md",
-    "Network Fundamentals/Attachments/vpn.png",
     "Network Fundamentals/Attachments",
     "Network Fundamentals"
   ]
