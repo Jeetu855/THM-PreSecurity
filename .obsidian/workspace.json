@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Fundamentals/Fundamentals.md",
+                "file": "Windows Fundamentals/Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ceafa3791df2dde3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Fundamentals/Fundamentals.md",
+                "file": "Windows Fundamentals/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Fundamentals/Fundamentals.md",
+                "file": "Windows Fundamentals/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Fundamentals/Fundamentals.md"
+                "file": "Windows Fundamentals/Fundamentals.md"
               }
             }
           }
@@ -149,10 +148,12 @@
   },
   "active": "199b68138c40b98e",
   "lastOpenFiles": [
+    "Linux Fundamentals/Fundamentals.md",
+    "Windows Fundamentals/Fundamentals.md",
+    "Windows Fundamentals",
     "Linux Fundamentals/Attachments/Pasted image 20230908181113.png",
     "Linux Fundamentals/Attachments",
     "Web Fundamentals/Attachments/WAF.png",
-    "Linux Fundamentals/Fundamentals.md",
     "Linux Fundamentals",
     "Web Fundamentals/Attachments/loadBalancer.png",
     "Web Fundamentals/Attachments/HTMLinjection.png",
@@ -164,7 +165,6 @@
     "Web Fundamentals/How Websites Work.md",
     "Web Fundamentals/Attachments/dnsProcedure.png",
     "Web Fundamentals/Attachments/dnsHeirarchy.png",
-    "Web Fundamentals/Attachments/dns.png",
     "Web Fundamentals/DNS.md",
     "Web Fundamentals/Attachments",
     "Network Fundamentals/Extending Networks.md",
